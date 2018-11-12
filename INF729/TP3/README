@@ -1,1 +1,9 @@
+MS BGD: Spark TP 3 (2018-2019)
+Machine learning avec Spark
 
+Pour la bonne exécution de ce programme, changer le chemin vers le trainingset:
+     val path_trainingset = "cheminVersLeTrainingset"
+    et le chemin vers lequel on souhaite enregistrer le modèle entrainé :
+      val path_model = "cheminVersModele"
+      
+Ces modifications sont à faire dans le fichier Trainer.scala.
