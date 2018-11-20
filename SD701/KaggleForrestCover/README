@@ -1,5 +1,8 @@
+Kaggle Forest Cover Type prediction
 
+This work has been made on Databricks (in pyspark).
 
+My final score was 0.91048.
 
-
-https://github.com/MSBigData2019/Pierre_Gelade/blob/master/SD701/KaggleForrestCover/SD701-TP03-KaggleForrestCover.html
+The work is visible on the following adress :
+ http://htmlpreview.github.io/?https://github.com/MSBigData2019/Pierre_Gelade/blob/master/SD701/KaggleForrestCover/SD701-TP03-KaggleForrestCover.html
